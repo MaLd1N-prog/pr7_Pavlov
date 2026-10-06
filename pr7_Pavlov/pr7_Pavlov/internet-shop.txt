@@ -1,0 +1,2 @@
+1 arbuz yagoda 100 12
+2 mandarin fruit 100 2
